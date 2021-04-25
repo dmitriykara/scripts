@@ -27,3 +27,5 @@ sudo apt-get upgrade -y;
 # GOPATH=$HOME/golang
 # source ~/.profile
 
+# Install k3s
+# curl -sfL https://get.k3s.io | sh -
